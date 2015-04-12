@@ -1,4 +1,4 @@
-# KISS-Windows-Sync
+# KISS-WinSync
 !!!This is not production Ready!!!  
 
 A C++ implimentation of the Microsoft Sync Framework for Files https://msdn.microsoft.com/en-us/library/bb902860%28v=sql.110%29.aspx as a single Qt Class.  
